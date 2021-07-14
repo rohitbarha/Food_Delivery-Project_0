@@ -14,3 +14,5 @@ WHERE meal_id = 2215;
 DELETE FROM mytable
 WHERE meal_id = 1571;
 
+-insert in table-
+INSERT into mytable values(1901, "Beverages",)
