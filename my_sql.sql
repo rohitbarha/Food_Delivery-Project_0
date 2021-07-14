@@ -15,4 +15,11 @@ DELETE FROM mytable
 WHERE meal_id = 1571;
 
 -insert in table-
-INSERT into mytable values(1901, "Beverages",)
+INSERT into mytable values(1901, "Momos", "Chinese")
+
+-drop table-
+DROP table mytable;
+
+-sort table-
+SELECT *FROM mytable
+ORDER BY cuisine ASC;
